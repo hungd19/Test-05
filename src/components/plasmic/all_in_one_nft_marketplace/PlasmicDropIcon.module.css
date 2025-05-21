@@ -1,0 +1,8 @@
+.root {
+  object-fit: contain;
+  max-width: 100%;
+  position: relative;
+}
+.root > picture > img {
+  object-fit: contain;
+}
